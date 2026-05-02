@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="cs2external/cs2external.csproj">
+    <BuildType Project="Release" />
+  </Project>
+</Solution>
